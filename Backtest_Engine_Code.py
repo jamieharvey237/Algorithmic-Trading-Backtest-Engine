@@ -22,7 +22,7 @@ for i in range (49,len(snp500)): #Manual for loop for moving average technique
 
 snp500['200 day average'] = snp500['Close Price'].rolling(window=200).mean() #Built in rolling function in pandas
 
-#Detect Crossover of averages--------------------------------------
+#Detect Crossover of averages (signals)--------------------------------------
 snp500['State'] = "Hold" #Set default to be hold
 
 for i in range(199,len(snp500)):
@@ -146,4 +146,5 @@ plt.title('S&P500 Historial Close Price Data')
 plt.legend()
 plt.grid()
 plt.show()
+
 
