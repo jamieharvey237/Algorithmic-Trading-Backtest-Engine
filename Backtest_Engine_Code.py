@@ -147,7 +147,3 @@ plt.legend()
 plt.grid()
 plt.show()
 
-
-
-#Building the strategy
-#print(snp500)
