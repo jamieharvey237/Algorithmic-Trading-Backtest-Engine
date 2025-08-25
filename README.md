@@ -1,5 +1,5 @@
 # Algorithmic-Trading-Backtest-Engine
-An independent project which delves into the mechanics of algorithmic trading and backtesting. Python-based engine designed to quantitatively assess trading strategies against a Buy & Hold benchmark using 20 years of S&amp;P500 close price data. Calculation of key risk-return metrics uncovered the real-world trade-off between risk mitigation and return maximisation.
+An independent project which delves into the mechanics of algorithmic trading and backtesting. Python-based engine designed to quantitatively assess trading strategies against a Buy & Hold benchmark using 20 years of S&amp;P500 close price data. Calculation of key risk-return metrics highlighted the real-world trade-off between risk mitigation and return maximisation.
 
 ## 🔍 Key Findings
 
