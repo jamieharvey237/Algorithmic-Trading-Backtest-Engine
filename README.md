@@ -18,4 +18,4 @@ Backtesting a 50/200-day SMA Crossover strategy revealed:
 
 For complete methodology and analysis, please read the full project report:
 
-[**📄 Full Project Report (PDF)**](/docs/Backtest_Engine_Report.pdf)
+[**📄 Full Project Report (PDF)**](/Backtest_Engine_Report.pdf)
